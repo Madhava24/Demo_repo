@@ -1,3 +1,3 @@
 # Demo_repo
 It's just a demo repo.
-And its mine
+And its ours.
